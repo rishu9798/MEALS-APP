@@ -1,5 +1,5 @@
 # MEALS-APP
 
 
-HOST-LINK:
+HOSTED-LINK:
 https://rishu9798.github.io/MEALS-APP/
